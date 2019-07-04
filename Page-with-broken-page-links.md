@@ -1,5 +1,5 @@
 
-1. [Page whose parent is available](/File-with-space-in-title/Child-page)
+1. [Page whose parent is available](/File-with-space-in-title-and-attachemnt/Child-page)
 Clicking on this link should show error page like this:
 ![image.png](.attachments/image-d10fef14-dc21-4467-b417-58cce4b5ea67.png)
 
